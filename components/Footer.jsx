@@ -77,7 +77,7 @@ export const Footer = () => {
             <div>
               <a href="https://www.instagram.com/bagel.base/" target="_blank">
                 <Image
-                  src='/assets/instagram_icon_wh.png'
+                  src='/assets/Instagram_wh.png'
                   width={20}
                   height={20}
                   alt="instagram_icon"

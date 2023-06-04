@@ -62,7 +62,7 @@ export const About = () => {
             <h3 className="  text-sm sm:text-base">コンセプトテキスト<br />コンセプトテキスト</h3>
           </div>
           <div>
-            <p className="text-xs sm:text-sm">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia deleniti molestiae voluptates libero excepturi ad impedit explicabo nulla quas, consectetur in. Commodi quibusdam cupiditate recusandae aperiam officia? Quis, ipsa quo!</p>
+            <p className="text-xs sm:text-sm">Lorem ipasum dolor sit amet consectetur, adipisicing elit. Officia deleniti molestiae voluptates libero excepturi ad impedit explicabo nulla quas, consectetur in. Commodi quibusdam cupiditate recusandae aperiam officia? Quis, ipsa quo!</p>
           </div>
         </motion.div>
       </div>

@@ -223,7 +223,7 @@ export const Nav = () => {
                   >
                     <a href="https://www.instagram.com/bagel.base/" target="_blank">
                       <Image
-                        src='/assets/instagram_icon_wh.png'
+                        src='/assets/Instagram_wh.png'
                         width={40}
                         height={40}
                         alt="instagram_icon"

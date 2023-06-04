@@ -97,7 +97,7 @@ export const Instagram = () => {
           <div>
             <a href="https://www.instagram.com/bagel.base/" target="_blank">
               <Image
-                src='/assets/instagram_icon_bk.png'
+                src='/assets/Instagram_bk.png'
                 width={20}
                 height={20}
                 alt="instagram icon"

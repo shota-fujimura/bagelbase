@@ -20,7 +20,7 @@ export const Instagram = () => {
     const id = process.env.ACCOUNT_ID
     const token = process.env.NEXT_PUBLIC_ACCESS_TOKEN
 
-    const requestUrl = `https://graph.facebook.com/v15.0/${id}?access_token=${token}&fields=media{media_url,media_type,like_count}`
+    const requestUrl = `https://graph.facebook.com/v17.0/${id}?access_token=${token}&fields=media{media_url,media_type,like_count}`
 
     fetch(requestUrl)
       .then((response) => response.json())

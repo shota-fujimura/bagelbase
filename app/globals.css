@@ -83,8 +83,7 @@ body {
 
 /* svg */
 .svgContainer {
-  width: 300px;
-  height: 40px;
+  width: 100%;
   display: flex;
   place-content: center;
 }
